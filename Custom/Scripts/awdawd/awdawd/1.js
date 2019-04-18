@@ -1,3 +1,1 @@
-.adw {
-	color: red;
-}
+var a = 1;
