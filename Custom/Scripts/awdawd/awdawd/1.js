@@ -1,1 +1,3 @@
-2
+.adw {
+	color: red;
+}
