@@ -1,1 +1,1 @@
-var myTest = "varavravarav";
+var myTest = "123!";
